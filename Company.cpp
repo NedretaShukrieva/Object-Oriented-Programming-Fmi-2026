@@ -1,6 +1,4 @@
 #include "Company.h"
-//#include <iostream>
-//#include <cstring>
 
 
 Company& Company::getInstance()
